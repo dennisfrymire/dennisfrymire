@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm Dennis Frymire. I'm a web developer, transitioning from a previous career in real estate sales and clinical massage therapy. (Yes, two very different fields!)
+
+### Now:
+
+I am currently seeking first developer role while deepening and expanding my learning that began through self-teaching and General Assembly's Software Engineering Immersive. 
+
+
 
 <!--
 **dennisfrymire/dennisfrymire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
