@@ -1,10 +1,10 @@
 ### Hello! 👋
 
-I'm Dennis Frymire. I'm a web developer, transitioning from a previous career in real estate sales and clinical massage therapy. (Yes, two very different fields!) As a former small business owner, I approach my work with a strong sense of ownership and empathy. 
+I'm Dennis Frymire. I'm a web developer, transitioning from a previous career in real estate sales and clinical massage therapy. (Yes, two very different fields!) I approach my work with a strong sense of ownership and empathy. 
 
 ### Now:
 
-I am currently seeking first developer role while deepening and expanding my learning that began through self-teaching and General Assembly's Software Engineering Immersive. 
+I am currently in fellowship as a full-stack developer at the National Democratic Training Committee.  
 
 
 
