@@ -4,7 +4,7 @@ I'm Dennis Frymire. I'm a web developer, transitioning from a previous career in
 
 ### Now:
 
-I am currently a frontend development fellow at the National Democratic Training Committee. (www.traindemocrats.org)
+Seeing new opportunities as my family prepares a move to St. Louis East Metro area
 
 
 
