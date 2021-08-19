@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Dennis Frymire. I'm a web developer, transitioning from a previous career in real estate sales and clinical massage therapy. (Yes, two very different fields!) I approach my work with a strong sense of ownership and empathy. 
+I'm Dennis Frymire. I'm a junior web developer, transitioning from a previous career in real estate sales and clinical massage therapy. (Yes, two very different fields!) I approach my work with a strong sense of ownership and empathy. 
 
 ### Now:
 
